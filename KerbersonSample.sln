@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KerbersonSample", "KerbersonSample\KerbersonSample.csproj", "{50B454B3-090C-4FCA-B70F-73533F462495}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KerbersonSample.Tests", "KerbersonSample.Tests\KerbersonSample.Tests.csproj", "{BE7353AE-75E7-4BB9-B52A-75BFEA61BEA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50B454B3-090C-4FCA-B70F-73533F462495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B454B3-090C-4FCA-B70F-73533F462495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B454B3-090C-4FCA-B70F-73533F462495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B454B3-090C-4FCA-B70F-73533F462495}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE7353AE-75E7-4BB9-B52A-75BFEA61BEA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE7353AE-75E7-4BB9-B52A-75BFEA61BEA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE7353AE-75E7-4BB9-B52A-75BFEA61BEA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE7353AE-75E7-4BB9-B52A-75BFEA61BEA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
